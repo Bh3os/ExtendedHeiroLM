@@ -407,9 +407,3 @@ Contributions to the HieroLM project are welcome! Please feel free to submit pul
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## Acknowledgments
-
-- Thanks to the providers of the AES and Ramses datasets
-- The computational linguistics research community for advances in language modeling
-- Egyptologists who provided domain expertise and validation
