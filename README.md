@@ -1,10 +1,8 @@
-# HieroLM - Egyptian Hieroglyph Prediction Models
+# BIHieroLM - Egyptian Hieroglyph Prediction Models
 
 ## Overview
 
-HieroLM is a PyTorch-based implementation of various neural language models designed specifically for Egyptian hieroglyph prediction and restoration. The project aims to aid Egyptologists and researchers in recovering damaged or missing hieroglyphs in ancient texts by leveraging the power of deep learning sequence models.
-
-This repository contains the official implementation of the algorithms presented in the paper **HieroLM: Egyptian Hieroglyph Recovery with Next Word Prediction Language Model** published at *The 9th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL 2025)* at *NAACL 2025*.
+BIHieroLM is a PyTorch-based implementation of various neural language models designed specifically for Egyptian hieroglyph prediction and restoration. The project aims to aid Egyptologists and researchers in recovering damaged or missing hieroglyphs in ancient texts by leveraging the power of deep learning sequence models.
 
 ## Background
 
