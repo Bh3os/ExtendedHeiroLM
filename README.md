@@ -314,19 +314,7 @@ These models provide quantitative insights into hieroglyphic language patterns:
 - Identification of common linguistic structures
 - Statistical analysis of hieroglyphic language usage
 
-## Citation
 
-If you use HieroLM in your research, please cite our paper:
-
-```
-@inproceedings{hierolm2025,
-  title={HieroLM: Egyptian Hieroglyph Recovery with Next Word Prediction Language Model},
-  author={[Author Names]},
-  booktitle={The 9th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL 2025)},
-  year={2025},
-  publisher={Association for Computational Linguistics}
-}
-```
 
 ## Datasets and Data Format
 
